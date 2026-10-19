@@ -4,7 +4,7 @@ const projects = [
     url: "https://omonra46.github.io/app/",
     repo: "https://github.com/omonra46/app",
     tags: ["React", "TypeScript", "Vite", "react-router"],
-    accent: "#5eb1ff",
+    accent: "#ff8c32",
     description:
       "Многостраничный сайт клиники: услуги, врачи, маршрутизация, тёмная и светлая темы, форма записи.",
   },
@@ -13,7 +13,7 @@ const projects = [
     url: "https://omonra46.github.io/app2/",
     repo: "https://github.com/omonra46/app2",
     tags: ["React", "TypeScript", "Vite", "lucide"],
-    accent: "#f6a23c",
+    accent: "#ffb347",
     description:
       "Сайт спортивного клуба: ростер команды, расписание, рёбра дизайн-системы и переключатель тем.",
   },
@@ -22,7 +22,7 @@ const projects = [
     url: "https://omonra46.github.io/app3/",
     repo: "https://github.com/omonra46/app3",
     tags: ["React", "TypeScript", "Vite", "Markdown"],
-    accent: "#9f7cff",
+    accent: "#ff7a18",
     description:
       "Словарь из 26 терминов вайбкодинга и промтостроения с разборами, примерами и поиском.",
   },
